@@ -1,0 +1,4 @@
+Hello this the first file which we are handiling using python  
+in this file we create we wrie some data 
+Hey hello everyone
+Welcome to python File handling
